@@ -30,7 +30,7 @@ const About = () => {
                 <Details/>
                   <div className=' '>
                  <Link to='/intro' >
-                    <button className='text-xs  w-[100px] my-4  hover:bg-orange-400 duration-500 
+                    <button className='text-xs  w-[100px] my-4  hover:bg-orange-700 duration-500 
                             rounded-3xl outline-2 outline-gray-300 outline h-[30px] rounded- font-bold text-white' onClick={spinning}>
                        READ MORE
                     </button>
